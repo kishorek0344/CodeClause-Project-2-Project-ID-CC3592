@@ -10,7 +10,9 @@ The Handwritten Digit Recognition System will leverage deep learning techniques 
 
 # Technologies Used:
 Programming Language: Python
+
 Deep Learning Framework: TensorFlow or PyTorch
+
 Additional Technologies: Any other relevant tools or libraries that may enhance the system's functionality or efficiency.
 
 # Learning Outcomes:
